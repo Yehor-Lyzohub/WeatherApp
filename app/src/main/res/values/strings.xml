@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kyiv">Kyiv</string>
+    <string name="mon_24_may_5_27_am">Mon 24 May 5:27 AM</string>
+    <string name="_27_u00b0">27°</string>
+    <string name="_30_u00b0_20_u00b0_feels_like_28_u00b0">Feels like 28°</string>
+    <string name="sunny">Sunny</string>
+    <string name="yesterday_31_u00b0_22_u00b0">Yesterday: 31°/22°</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="uv_index">UV index</string>
+    <string name="_10">10%</string>
+    <string name="low">Low</string>
+    <string name="divider">divider</string>
+    <string name="Thane">Thane</string>
+    <string name="thu_5_december_8_41_am">Thu 5 December 8:41 am</string>
+</resources>
